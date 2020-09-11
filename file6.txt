@@ -1,1 +1,2 @@
 file6
+bug fix OK
